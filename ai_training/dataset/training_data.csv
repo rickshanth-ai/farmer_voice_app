@@ -1,0 +1,16 @@
+text,intent
+"Enakku nel payirukku poochi vandhurukku",pest
+"Nel payirla poochi attack aagudhu",pest
+"Payirukku poochi marundhu enna",pest
+"En tomato plant yellow aagudhu",disease
+"Tomato ilai karuppa aagudhu",disease
+"Payirukku noi vandhurukku",disease
+"Indha season enna payir podalam",crop_recommendation
+"En nilathukku suitable crop enna",crop_recommendation
+"Indha mannukku enna payir nalla irukkum",crop_recommendation
+"Indha vaaram mazhai varuma",weather
+"Naalai weather epdi irukkum",weather
+"En area la mazhai chance irukka",weather
+"Market la nel vilai evlo",market_price
+"Tomato market price enna",market_price
+"Innaiku onion price evlo",market_price

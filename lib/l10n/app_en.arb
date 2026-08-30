@@ -1,0 +1,14 @@
+{
+  "@@locale": "en",
+
+  "appName": "Farmer Voice",
+  "scanYourCrop": "Scan Your Crop",
+  "takeClearPhoto": "Take a clear photo of the crop leaf",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "removeImage": "Remove Image",
+  "analyzeCropWithAI": "Analyze Crop with AI",
+  "aiAnalysis": "AI Analysis",
+  "imageSuccessfullyCaptured": "Image successfully captured!",
+  "ok": "OK"
+}
