@@ -134,8 +134,8 @@
 		33CC10EE2044A3C60003C045 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				33CC10ED2044A3C60003C045 /* farmer_voice_app.app */,
-				331C80D5294CF71000263BE5 /* RunnerTests.xctest */,
+				33CC10ED2044A3C60003C045 /* .app */,
+				331C80D5294CF71000263BE5 /* Rfarmer_voice_appunnerTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
